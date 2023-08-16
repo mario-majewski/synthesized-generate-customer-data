@@ -1,0 +1,20 @@
+ACN,FNAME,LNM,TAXID,INC,EMAIL,PERS,DOB,SEX,MAD1,MAD2,MAD3,MZIP,MCITY,MSTATE,MCNTRY,AD1P,PAD2,PAD3,PZIP,PCITY,PSTATE,PCNTRY,BOO,RESCD
+100000000123,John,Smith,128735231,120000,john.smith@server.com,0,14.01.1990,MALE,Hull Village Suite,35,,49827,Michigan,MI,US,Hull Village Suite,35,,49827,Michigan,MI,US,10,1
+100000000124,Megan,Richard,865506891,80000,megan.richard@mail.com,0,04.12.1980,FEMALE,Christine Glen,23,,99847,West Tammyfort,FL,US,Michael Island,1,,55626,Hullport,GA,US,20,1
+100000000193,Katherine,Chang,042348377,77000,katherine.chang@mail.com,0,24.10.1990,FEMALE,Brown Plaza,643,,5807,New York,KY,US,Jessica Squares,23,,34437,Howardborough,IL,US,40,2
+100000000213,Robert,Fisher,498524970,85000,robert.fisher@mail.com,0,15.07.1991,MALE,Chang Manor,778,,77231,Washington,PA,US,Chang Manor,778,,77231,Washington,PA,US,120,1
+100000000231,Jonathan,Green,489469559,59000,jonathan.green@mail.com,0,12.02.1998,MALE,Jonathan Pass,86,,90123,Santa Monica,IN,US,Jonathan Pass,86,,90123,Santa Monica,IN,US,1240,1
+100000000240,William,Dixon,224652282,66000,william.dixon@mail.com,0,10.06.1977,MALE,Sullivan Tunnel,129,,89231,West Donald,OH,US,Sullivan Tunnel,129,,89231,West Donald,OH,US,900,1
+100000000245,Sarah,Fisher,865506892,90000,sarah.fisher@mail.com,0,11.03.1980,FEMALE,Faulkner Knolls,89,,56499,Denver,MS,US,Faulkner Knolls,89,,56499,Denver,MS,US,120,1
+100000000246,Norma,Sullivan,042348378,60000,norma.sullivan@mail.com,0,13.12.1975,FEMALE,William Haven,132,,53912,Wenatchee,WA,US,Eagles Nest Drive,2518,2,51234,Wheatland,CA,US,2020,1
+100000000249,Jennifer,Woods,498524971,55000,jennifer.woods@mail.com,0,05.11.1991,FEMALE,Burke Street,472,1,2327,Bryantville,MA,US,Burke Street,472,1,2327,Bryantville,MA,US,2100,1
+100000000251,Deanna,Wagner,489469560,71000,deanna.wagner@mail.com,0,06.08.1998,FEMALE,Pheasant Ridge Road,402,2,19034,Fort Washington,MA,US,Jones Avenue,4196,,27104,Winston Salem,NC,US,4070,2
+100000000252,Kayla,Montgomery,224652283,49000,kayla.montgomery@mail.com,0,27.04.1989,FEMALE,Circle Drive,232,1,77036,Houston,TX,US,Courtright Street,4705,,58755,Mcgregor,ND,US,1310,2
+100000000253,Ryan,Hamilton,042348379,44000,ryan.hamilton@mail.com,0,23.05.2000,MALE,Honeysuckle Lane,2990,,98520,Aberdeen,WA,US,Honeysuckle Lane,2990,,98520,Aberdeen,WA,US,2046,1
+100000000254,Peter,Bear,498524972,62000,peter.bear@mail.com,0,22.02.1999,MALE,Ritter Street,31,8,35816,Huntsville,AL,US,Jessie Street,31,19,45656,Oak Hill,OH,US,3015,1
+100000000255,Jason,Hunter,224652284,58000,jason.hunter@mail.com,0,11.07.1985,MALE,Marion Street,16,38,5343,Jamaica,VT,US,Wilson Avenue,30,76,75204,Dallas,TX,US,2337,1
+100000000256,David,Coulthard,042348380,49999,david.coulthard@mail.com,0,19.06.1994,MALE,Red Bud Lane,27,,7477,Wayne,NJ,US,Red Bud Lane,27,,7477,Wayne,NJ,US,4224,1
+100000000260,Jorge,Fangio,224652285,60000,jorge.fangio@mail.com,0,17.03.1980,MALE,Hummingbird Way,3021,,67401,Salina,KS,US,Grasselli Street,243,,3242,Hillsboro Upper Vill,NH,US,5181,2
+200000000001,MM,Company,123456789,50000,mm@company.com,1,01.10.2022,COMPANY,Archwood Avenue,35,,82939,Mountain View,WY,US,Dane Street,93,,99033,Tekoa,WA,US,9000,1
+200000000002,Second,Company,331386972,900000,second@company.com,1,11.04.2012,COMPANY,Snider Street,62,21,80112,Centennial,CO,US,Oakwood Avenue,43,11,10016,Manhattan,NY,US,9000,1
+200000000003,Third,Company,872471475,1000000,second@company.com,1,01.01.2000,COMPANY,Elm Drive,1721,,10011,New York,NY,US,Queens Lane,572,,24541,Danville,VA,US,9000,1
